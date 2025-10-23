@@ -3,6 +3,9 @@
 ## API Overview
 CineSeek is a modern movie discovery application that utilizes the **MoviesDatabase API**. This API allows users to browse movies, view specific movie details, and search for films by criteria such as year or genre. The integration requires proper API handling and strict TypeScript typing to ensure reliability and type safety.
 
+## APP Version
+ version 0.1.0
+
 ## Available Endpoints
 The application primarily interacts with the following endpoint:
 *   **/titles:** This is the main endpoint used for fetching movie data. It supports filtering functionality by year and genre, and importantly, it implements pagination to manage browsing through results efficiently.
