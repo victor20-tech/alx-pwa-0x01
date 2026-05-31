@@ -1,4 +1,5 @@
 import withPWAInit from "@ducanh2912/next-pwa";
+import type { NextConfig } from "next";
 
 const withPWA = withPWAInit({
   dest: "public",
@@ -6,13 +7,28 @@ const withPWA = withPWAInit({
   register: true,
 });
 
-const nextConfig = {
+const nextConfig: NextConfig = {
   reactStrictMode: true,
   images: {
     remotePatterns: [
       {
         protocol: "https",
         hostname: "m.media-amazon.com",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "**.rapidapi.com",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "**",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
         pathname: "/**",
       },
     ],
@@ -27,4 +43,4 @@ const nextConfig = {
   ],
 };
 
-export default withPWA(nextConfig as any);
+export default withPWA(nextConfig);

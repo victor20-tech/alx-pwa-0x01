@@ -1,0 +1,124 @@
+[
+  {
+    "id": "tt0111161",
+    "titleText": { "text": "The Shawshank Redemption" },
+    "releaseYear": { "year": "1994" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZWI1LWI5ZmUtMTY3NzYzZDM0ZDIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "tt0068646",
+    "titleText": { "text": "The Godfather" },
+    "releaseYear": { "year": "1972" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmYtYTAwMC00ZjQ5LWFmNTEtODM1ZmRlY2RhYzI3XkEyXkFqcGc@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": "tt0468569",
+    "titleText": { "text": "The Dark Knight" },
+    "releaseYear": { "year": "2008" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMDk2Mw@@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Action", "Crime"]
+  },
+  {
+    "id": "tt6751668",
+    "titleText": { "text": "Parasite" },
+    "releaseYear": { "year": "2019" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjA3M2RiYjQtYTA5My00YTBlLTg1NWEtYTQ4MjdiNTgwYWFkXkEyXkFqcGc@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Thriller", "Drama"]
+  },
+  {
+    "id": "tt4154796",
+    "titleText": { "text": "Avengers: Endgame" },
+    "releaseYear": { "year": "2019" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1MV5BMl5BanBnXkFtZTgwODk1NzY2NzM@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Action", "Adventure"]
+  },
+  {
+    "id": "tt1375666",
+    "titleText": { "text": "Inception" },
+    "releaseYear": { "year": "2010" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjViNWY4MjItM2MyMi00NmQ3LTk0NzctNzQxNGU2N2NmY2ZmXkEyXkFqcGc@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Sci-Fi", "Thriller"]
+  },
+  {
+    "id": "tt0816692",
+    "titleText": { "text": "Interstellar" },
+    "releaseYear": { "year": "2014" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODQ2MjE@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Sci-Fi", "Drama"]
+  },
+  {
+    "id": "tt4633694",
+    "titleText": { "text": "Spider-Man: Into the Spider-Verse" },
+    "releaseYear": { "year": "2018" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWUwYTE4YmEtN2RkMC00ZjZjLWI1NzMtNGY2MzI5Nzc5MjdiXkEyXkFqcGc@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Animation", "Action"]
+  },
+  {
+    "id": "tt3170832",
+    "titleText": { "text": "Room" },
+    "releaseYear": { "year": "2015" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxNjY2MzU0OF5BMl5BanBnXkFtZTgwMjI3NDE1NjE@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Drama", "Thriller"]
+  },
+  {
+    "id": "tt2380307",
+    "titleText": { "text": "Coco" },
+    "releaseYear": { "year": "2017" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODY0NzYyNzYyNF5BMl5BanBnXkFtZTgwNjA3NjkzMzI@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Animation", "Family"]
+  },
+  {
+    "id": "tt2582802",
+    "titleText": { "text": "Whiplash" },
+    "releaseYear": { "year": "2014" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0NTMyMzY3N15BMl5BanBnXkFtZTgwMzkxNzU3MjE@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Drama", "Music"]
+  },
+  {
+    "id": "tt7286456",
+    "titleText": { "text": "Joker" },
+    "releaseYear": { "year": "2019" },
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWMxNjYzNTAtYzhlYS00ODExLThhMjctN2Y1ODU3ZjQwZDgzXkEyXkFqcGc@._V1_.jpg"
+    },
+    "titleType": "movie",
+    "genres": ["Crime", "Drama"]
+  }
+]
+
+
